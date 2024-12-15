@@ -4,7 +4,14 @@
 
 - Kali Linux
 - setoolkit
+  
+### Configuração da Rede para o Modo Bridge 
 
+- Máquina
+- Configurações
+- Rede
+- Conectado a: ``` Placa em modo Bridge ```
+  
 ### Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
